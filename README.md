@@ -46,5 +46,27 @@ CORE SQL; veritabanı mühendisliği, modern veri mimarileri ve DevOps süreçle
 
 Uygulama, kullanıcıların çözdüğü vakalarla XP kazandığı, **Junior Intern**'den **Data Good ⚡** rütbesine kadar ilerlediği ve 100'den fazla özel rozet (Sherlock, Buz Adam, Sorgu Mimarı vb.) toplayabildiği derinlikli bir başarı sistemi içerir.
 
+## Görseller
+<img width="441" height="788" alt="image" src="https://github.com/user-attachments/assets/5d17b9db-d73d-4fb0-9c46-d0f2149a7ab0" />
+<img width="444" height="786" alt="image" src="https://github.com/user-attachments/assets/2765012e-1f4d-4ec1-b6d4-6332783c3ca3" />
+<img width="440" height="787" alt="image" src="https://github.com/user-attachments/assets/277a6462-6aaf-4887-8920-b74ece1ef4b8" />
+<img width="443" height="787" alt="image" src="https://github.com/user-attachments/assets/03fa80b1-54c5-4435-a5cb-3643482621e1" />
+<img width="441" height="788" alt="image" src="https://github.com/user-attachments/assets/a309d3c1-6991-415b-bc69-d2a3fce0570d" />
+<img width="444" height="787" alt="image" src="https://github.com/user-attachments/assets/06ef44d8-dea6-4028-b9bc-6d7ea7230d19" />
+<img width="441" height="787" alt="image" src="https://github.com/user-attachments/assets/e171a88b-ae89-4100-a827-c18e9ac33b6f" />
+<img width="440" height="786" alt="image" src="https://github.com/user-attachments/assets/07d7d096-3d5f-44b4-851e-24bec9fdeefa" />
+<img width="442" height="787" alt="image" src="https://github.com/user-attachments/assets/9fc13162-5dd6-4096-b33f-b3ebf14f5e31" />
+<img width="441" height="789" alt="image" src="https://github.com/user-attachments/assets/9ef57c76-bc94-4812-bf06-c8ae5eb0a66e" />
+<img width="443" height="788" alt="image" src="https://github.com/user-attachments/assets/d2975449-b707-42d7-bc56-a75954d9a5db" />
+<img width="443" height="788" alt="image" src="https://github.com/user-attachments/assets/90985f38-1e0b-47f5-ac26-b3fc8620518f" />
+<img width="444" height="789" alt="image" src="https://github.com/user-attachments/assets/8c478799-c8e5-40ea-9ce2-0391f118eb11" />
+<img width="444" height="785" alt="image" src="https://github.com/user-attachments/assets/4cd01e38-0ae8-4077-a8a7-7a4592d9944f" />
+<img width="442" height="788" alt="image" src="https://github.com/user-attachments/assets/53c130d4-6780-4f10-8d0b-61fcb9186c5c" />
+<img width="444" height="788" alt="image" src="https://github.com/user-attachments/assets/cef35e73-c58e-406d-840f-350a33c80ff0" />
+<img width="444" height="787" alt="image" src="https://github.com/user-attachments/assets/a2983d29-d7a2-40db-83bd-7f23aa54602a" />
+<img width="444" height="785" alt="image" src="https://github.com/user-attachments/assets/ecd34e43-11b7-4129-bb08-4a198822b920" />
+<img width="443" height="788" alt="image" src="https://github.com/user-attachments/assets/cad8fa3c-c36d-4c74-b68b-1199b1c674f8" />
+<img width="441" height="789" alt="image" src="https://github.com/user-attachments/assets/94e271c8-3e5c-4939-a0ed-c2d5fc13f190" />
+
 ---
 *Geliştirici: Elif Nur Ayhan* *Lokasyon: Kayseri, Türkiye* *Sürüm: 3.4.0 (Platinum Edition)*
